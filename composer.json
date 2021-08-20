@@ -10,7 +10,7 @@
   ],
   "require": {
     "php": ">=7.2",
-    "carica/io": "^1.1"
+    "carica/io": "^2.0.1"
   },
   "require-dev": {
     "carica/firmata": "^1.1",
